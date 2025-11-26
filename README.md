@@ -1,10 +1,10 @@
-# 🐛 Bug report for better-auth 1.4.2 based on create-t3-turbo
+# 🐛 Bug report for better-auth 1.4.2 issue [#5666](https://github.com/better-auth/better-auth/issues/5666) based on create-t3-turbo
 
 ### How to reproduce
 
 1. Clone repro and `cd` into it
 2. Install dependencies using `pnpm install`
-3. Run `pnpm run lint` for seeing the issues
+3. Run `pnpm run lint` for seeing the issues described in [#5666](https://github.com/better-auth/better-auth/issues/5666)
 
 > [!NOTE]
 >
