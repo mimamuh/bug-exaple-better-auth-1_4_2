@@ -1,3 +1,19 @@
+# bug in better-auth 1.4.2 based on create-t3-turbo
+
+# How to reproduce
+
+1. Clone repro and `cd` into it
+2. Install dependencies using `pnpm install`
+3. Run `pnpm run lint` for seeing the issues
+
+---
+
+> [!NOTE]
+>
+> This bug report is based on create-t3-turbo project starter monorepro
+
+---
+
 # create-t3-turbo
 
 > [!NOTE]
